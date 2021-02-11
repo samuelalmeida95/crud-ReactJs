@@ -6,8 +6,13 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "0.18.0",
+    "bootstrap": "4.1.1",
+    "font-awesome": "4.7.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -34,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "samuelalmeida95 <samuelalmeida95>",
+  "license": "MIT"
 }
